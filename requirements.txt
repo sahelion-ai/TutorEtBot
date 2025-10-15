@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+firebase-admin==6.5.0
+flask==2.3.3
+python-dotenv==1.0.0
+pycryptodome==3.18.0
+cachetools==5.3.1
+requests==2.31.0
